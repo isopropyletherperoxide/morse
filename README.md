@@ -4,4 +4,4 @@ Morse Code player in C++
 - SFML
 
 
-Usage: morse <unit length> <"input"> 
+Usage: ``morse <unit length> <"input">``
